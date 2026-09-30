@@ -1,0 +1,4 @@
+- L'IA est isolée dans AIService.
+- Le Controller est le cerveau.
+- Le Popup n'appelle jamais directement l'IA.
+- Les clés API sont dans .env.

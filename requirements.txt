@@ -1,0 +1,6 @@
+PySide6
+pyperclip
+google-genai
+python-dotenv
+pynput
+uiautomation
