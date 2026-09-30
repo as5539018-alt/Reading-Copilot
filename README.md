@@ -38,25 +38,26 @@ Le projet est séparé en plusieurs parties:
 
 ## Installation
 
-1-Créer un environnement Python dans le terminal par le script:
+1 - Créer un environnement Python dans le terminal par le script:
 
+```bash
 python -m venv venv
-
-2-Active le par:
+```
+2 - Active le par:
 
 ```bash
 venv\Scripts\activate
 ```
-3-Installer les dépendances :
+3 - Installer les dépendances :
 
 ```bash
 pip install -r requirements.txt
 ```
-4-Dans "api.env" mets ta clé api google pour utiliser gemini:
+4 - Dans "api.env" mets ta clé api google pour utiliser gemini:
 
 GEMINI_API_KEY=ta_cle_api
 
-5-Puis lancer:
+5 - Puis lancer:
 
 ```bash
 python main.py
