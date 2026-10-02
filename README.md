@@ -63,5 +63,6 @@ GEMINI_API_KEY=ta_cle_api
 python main.py
 ```
 ## Screenshots
-![Main interface]<img width="495" height="416" alt="Screenshot1" src="https://github.com/user-attachments/assets/da98a0f4-7723-4c58-a936-049f0831f056" />
+![Main interface](<img width="495" height="416" alt="Screenshot1" src="https://github.com/user-attachments/assets/da98a0f4-7723-4c58-a936-049f0831f056" />
+)
 
